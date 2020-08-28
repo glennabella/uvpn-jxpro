@@ -1,8 +1,8 @@
 {
-	"ConfigVersion":2.83,
-	"ConfigUpdateMsg":"🔥What's New?👇\n👉New Server Set-UP\n\n😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n---------------------------------------------\n💖CoOwner Roni Joanne💖\n---------------------------------------------\n👇UltimateVPN ADMIN👇\n💎01👉Admin Redentor\n💎02👉Admin Joughnalyn\n💎03👉Admin Liza\n💎04👉Admin William\n💎05👉Admin Paulo\n💎06👉Admin Anna\n💎07👉Admin James\n💎08👉Admin ShyRa\n---------------------------------------------\nTnx:CoOwner\/Admin\/Seller",
+	"ConfigVersion":2.84,
+	"ConfigUpdateMsg":"🔥What's New?👇\n👉New Server Set-UP\n\n😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n---------------------------------------------\n💖CoOwner Roni Joanne💖\n---------------------------------------------\n👇UltimateVPN ADMIN👇\n💎01👉Admin Redentor\n💎02👉Admin Joughnalyn\n💎03👉Admin Liza\n💎04👉Admin William\n💎05👉Admin Paulo\n💎06👉Admin Anna\n💎07👉Admin James\n💎08👉Admin ShyRa\n💎09👉Admin Jonathan\n---------------------------------------------\nTnx:CoOwner\/Admin\/Seller",
 	"Notice":"😇 Welcome to UltimateVPN 😇 Thanks to sir Jx 😇",
-	"WarningMsg":"For Gaming Only Do Not Stream.",
+	"WarningMsg":"This Server is for ONLINE GAMING Only.",
 	"SquidPort":"8080",
 	"OpenVpnTCP":"443",
 	"OpenVpnUDP":"5245",
@@ -111,21 +111,21 @@
 		{
 			"Name":"SG (GAMING) 1 - vip",
 			"ServerHost":"www.viber.com.edgekey.net.vip-sgg1.ultimate-vpn.xyz",
-			"WarnMsg":false,
+			"WarnMsg":true,
 			"NewCert":true,
 			"Torrent":false
 		},
 		{
 			"Name":"SG (GAMING) 2 - vip",
 			"ServerHost":"www.viber.com.edgekey.net.vip-sgg2.ultimate-vpn.xyz",
-			"WarnMsg":false,
+			"WarnMsg":true,
 			"NewCert":true,
 			"Torrent":false
 		},
 		{
 			"Name":"SG (GAMING) 3 - vip",
 			"ServerHost":"www.viber.com.edgekey.net.vip-sgg3.ultimate-vpn.xyz",
-			"WarnMsg":false,
+			"WarnMsg":true,
 			"NewCert":true,
 			"Torrent":false
 		},
@@ -160,14 +160,14 @@
 		{
 			"Name":"SG (GAMING) 1 - prv",
 			"ServerHost":"www.viber.com.edgekey.net.pri-sgg1.ultimate-vpn.xyz",
-			"WarnMsg":false,
+			"WarnMsg":true,
 			"NewCert":true,
 			"Torrent":false
 		},
 		{
 			"Name":"SG (GAMING) 2 - prv",
 			"ServerHost":"www.viber.com.edgekey.net.pri-sgg2.ultimate-vpn.xyz",
-			"WarnMsg":false,
+			"WarnMsg":true,
 			"NewCert":true,
 			"Torrent":false
 		},
@@ -181,30 +181,30 @@
 	],
 	"Networks":[
 		{
-			"Name":"[DIRECT] ALL NET (UDP Protocol)",
-			"Info":"All Sim UDP Tunnel",
+			"Name":"[DIRECT] All Network NoProxy (TCP)",
+			"Info":"ALL Sim TCP PROTOCOL",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
-			"Direct":"Rafl1BjqJw7+pKzVZSGGVg==",
+			"Direct":"",
 			"Sni":"",
 			"Payload":""
 		},
 		{
-			"Name":"[DIRECT] ALL NET (TCP Protocol)",
-			"Info":"All Sim TCP Tunnel",
+			"Name":"[DIRECT] SUN Tu\/Ctc\/FLP300 (UDP)",
+			"Info":"ALL SIM PROMO UDP PROTOCOL",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
 			"CustomProxy":"",
-			"Direct":"Rafl1BjqJw7+pKzVZSGGVg==",
+			"Direct":"",
 			"Sni":"",
 			"Payload":""
 		},
 		{
 			"Name":"[INJECT] SUN TU\/CTC\/FLP300 1.1",
-			"Info":"USE 👉 TU\/CTC\/FLP300 Promo",
+			"Info":"Convert Tu\/Ctc\/Flp to All Site Access",
 			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"UseCustom":false,
@@ -215,7 +215,7 @@
 		},
 		{
 			"Name":"[INJECT] SUN TU\/CTC\/FLP300 1.2",
-			"Info":"USE 👉 TU\/CTC\/FLP300 Promo",
+			"Info":"Convert Tu\/Ctc\/Flp to All Site Access",
 			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"UseCustom":false,
@@ -225,8 +225,8 @@
 			"Payload":"o8b5gQgUPm4YmQMhzvG0uVHm9pQqRg9ho1xYG1bjQHjhn8OIWy6\/6QWJKR+x3O7tznjiztZBoeyETfRJMBrakuVc\/uyqPv0Cs\/27qVwFjhtbnMhc4bLYgE+x20bokfMOOqfnBicL0icuzDvuebgIu5sl+uuf5WYswkb4jykNR9M8AGn\/MWBXyKrMYfvByphSZtaX37C1L2VMobGmrexGZg=="
 		},
 		{
-			"Name":"[INJECT] TNT Giga-Games-Video",
-			"Info":"GIGA GAMES VIDEO",
+			"Name":"[INJECT] TNT  GIGA GAMES \/ VIDEO",
+			"Info":"Convert GamesVedio to All Site Access",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
@@ -236,19 +236,8 @@
 			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7z0tDfjUzt3neMWNuIFGDbPJ3pzNg7rYGSUEFpOW12VMis8k1uw93mykfkkCyBR8+zoEgQZRWdl5X5c3HGcuUoejxYKczgfaQrk6Q5jzDImrkeTb9D\/2HP\/aZ7IAiEDWxMW5pe8gMzqr1XZ\/kSIqIMax1GYgwwpO\/5W+8lamM9Tw=="
 		},
 		{
-			"Name":"[INJECT] Smart Giga-Games-Video",
-			"Info":"GIGA GAMES VIDEO",
-			"FrontQuery":"",
-			"BackQuery":"",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Direct":"",
-			"Sni":"",
-			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7z0tDfjUzt3neMWNuIFGDbPJ3pzNg7rYGSUEFpOW12VMis8k1uw93mykfkkCyBR8+zoEgQZRWdl5X5c3HGcuUoejxYKczgfaQrk6Q5jzDImrkeTb9D\/2HP\/aZ7IAiEDWxMW5pe8gMzqr1XZ\/kSIqIMax1GYgwwpO\/5W+8lamM9Tw=="
-		},
-		{
-			"Name":"[INJECT] Smart & Tnt Giga-Stories",
-			"Info":"GIGASTORIES",
+			"Name":"[INJECT] TNT & SMART Giga-Stories",
+			"Info":"Convert GigaStories to All Site Access",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
@@ -258,8 +247,19 @@
 			"Payload":"o8b5gQgUPm4YmQMhzvG0uVHm9pQqRg9ho1xYG1bjQHjhn8OIWy6\/6QWJKR+x3O7tuN3DRTYjHtODyT3dDD6EzKXQ13cOtoam79fJZ0jbBwRkMs+5cuVzQAClASiEIyvzq\/MRT2bEclgAweryq7XHx3I7ghEHIPylkLnOk8GnjOyF43lbPrCDO4HiL0qA2IV\/hpVgTJuJi1AGjRKPJ2JuyA=="
 		},
 		{
+			"Name":"[INJECT] Smart GIGA Games\/Video",
+			"Info":"Convert GamesVedio to All Site Access",
+			"FrontQuery":"",
+			"BackQuery":"",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Direct":"",
+			"Sni":"",
+			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7z0tDfjUzt3neMWNuIFGDbPJ3pzNg7rYGSUEFpOW12VMis8k1uw93mykfkkCyBR8+zoEgQZRWdl5X5c3HGcuUoejxYKczgfaQrk6Q5jzDImrkeTb9D\/2HP\/aZ7IAiEDWxMW5pe8gMzqr1XZ\/kSIqIMax1GYgwwpO\/5W+8lamM9Tw=="
+		},
+		{
 			"Name":"[INJECT] Smart At10\/At60 Test 1",
-			"Info":"At10\/At60 Promo",
+			"Info":"Convert AT Promo to All Site Access",
 			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"UseCustom":false,
@@ -270,7 +270,7 @@
 		},
 		{
 			"Name":"[INJECT] Smart At10\/At60 Test 2",
-			"Info":"At\/At60 Promo",
+			"Info":"Convert AT Promo to All Site Access",
 			"FrontQuery":"",
 			"BackQuery":"",
 			"UseCustom":false,
@@ -280,19 +280,8 @@
 			"Payload":"o8b5gQgUPm4YmQMhzvG0uVHm9pQqRg9ho1xYG1bjQHhhwy8UNTO+D+5yTQ8DoooPIX+AiwaPpuE8GMO+gU0+Nbda94rneiA+pAMqxZzirTJalHhp6ISpdHBHz5H7K1pxXGt1TLmOD0EA3WkQLQbLOrjJiRwyHwgCOZUJYkmW1uNKxG0UJkkc1cCukzB1mKK07eGCmIcszxJFTrqya3ok6w=="
 		},
 		{
-			"Name":"[INJECT] GTM WNP\/SNS PROMO",
-			"Info":"ByPass WnP & SnS Promo",
-			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
-			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
-			"UseCustom":false,
-			"CustomProxy":"",
-			"Direct":"8spjAAXQ\/GY87GRTOZzC9Q==",
-			"Sni":"8spjAAXQ\/GY87GRTOZzC9Q==",
-			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6irpTlJZrzFv8DjYgqG1eOW5AivjeaEXsygxR8d9zpIO3ZuC4iY3pjd3dNBOHWZyEqkxb4WZYrTFuNiNosxF78jQskll4ipX1Uu1e6rvAueBnKdvZaCBCGNS2PhyHFADID77UVrmilt9BA8v\/IiV72"
-		},
-		{
-			"Name":"[DIRECT] GTM GoWatch PROMO",
-			"Info":"ByPass GoWatch Promo",
+			"Name":"[DIRECT] GTM GO-WATCH PROMO",
+			"Info":"Convert GoWatch to All Site Access",
 			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"UseCustom":false,
@@ -302,8 +291,8 @@
 			"Payload":"8spjAAXQ\/GY87GRTOZzC9Q=="
 		},
 		{
-			"Name":"[INJECT] GTM GoWatch PROMO",
-			"Info":"ByPass GoWatch Promo",
+			"Name":"[INJECT] GTM GO-WATCH PROMO",
+			"Info":"Convert GoWatch to All Site Access",
 			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"UseCustom":false,
@@ -311,6 +300,17 @@
 			"Direct":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"Sni":"8spjAAXQ\/GY87GRTOZzC9Q==",
 			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6L2ydqnJYy+9v\/odR7rolHRAa4qn4BXF\/fNgXLk4\/SlPr54A3h4soJN7qtIK8MHwbnZRcpweAImawXveFsgF4bHartIh\/i+nGxTyqKqndS+8rZkcxPycWNLJ0fPR+x4L+\/nNxLpcSA6IhcmOsNvdPJ"
+		},
+		{
+			"Name":"[INJECT] GTM WNP & SNS PROMO",
+			"Info":"Convert Wnp\/Sns to All Site Access",
+			"FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
+			"BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
+			"UseCustom":false,
+			"CustomProxy":"",
+			"Direct":"8spjAAXQ\/GY87GRTOZzC9Q==",
+			"Sni":"8spjAAXQ\/GY87GRTOZzC9Q==",
+			"Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6irpTlJZrzFv8DjYgqG1eOW5AivjeaEXsygxR8d9zpIO3ZuC4iY3pjd3dNBOHWZyEqkxb4WZYrTFuNiNosxF78jQskll4ipX1Uu1e6rvAueBnKdvZaCBCGNS2PhyHFADID77UVrmilt9BA8v\/IiV72"
 		}
 	]
 }
