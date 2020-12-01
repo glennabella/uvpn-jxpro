@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":3.016,
-   "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n---------------------------------------------\n💖CoOwner Roni  Joanne💖\n💖CoOwner Liza Gabayan💖\n---------------------------------------------\n👇UltimateVPN ADMIN👇\n💎01👉Admin Redentor\n💎02👉Admin Joughnalyn\n💎03👉Admin William\n💎04👉Admin Paulo\n💎05👉Admin ShyRa\n💎06👉Admin Maylyn\n💎07👉Admin John Ard\n---------------------------------------------\nTnx:CoOwner\/Admin\/Seller",
+   "ConfigVersion":3.019,
+   "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n👇UltimateVPN ADMIN👇\n💎01👉 VPN Admin Redentor\n💎02👉 VPN Admin RoniSoyti\n💎03👉 VPN Admin Joughnalyn\n💎04👉 VPN Admin Lizza\n💎05👉 VPN Admin ShyRa\n---------------------------------------------\nTnx:Admin's & Seller's",
    "Notice":"😇 Welcome to UltimateVPN 😇 Thanks to sir Jx 😇",
    "WarningMsg":"This Server is for ONLINE GAMING Only.",
    "SquidPort":"3128",
@@ -11,253 +11,211 @@
    "OpenVpnCustomPort":"443",
    "Servers":[
       {
-         "Name":"NL [Server] TU\/CTC\/FLP  prm Torrent",
-         "ServerHost":"www.viber.com.edgekey.net.6pre-nlbtn.ultimatevpn.xyz",
+         "Name":"(TU\/CTC\/FLP) Torrent & Netflix US prm",
+         "ServerHost":"www.viber.com.edgekey.net.1pre1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"US [Server] TU\/CTC\/FLP  prm USDO",
-         "ServerHost":"www.viber.com.edgekey.net.6pre-nybg.ultimatevpn.xyz",
+         "Name":"(TU\/CTC\/FLP)  Browse\/Stream SG prm",
+         "ServerHost":"www.viber.com.edgekey.net.1pre2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] TU\/CTC\/FLP  prm SGDO",
-         "ServerHost":"www.viber.com.edgekey.net.6pre-sgbg.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":false
-      },
-      {
-         "Name":"NL [Server] GIGA-STORIES  prm Torrent",
-         "ServerHost":"api-stream.twitter.com.6pre-nlbtn.ultimatevpn.xyz",
+         "Name":"(GiGa-Stories) Torrent & Netflix US prm",
+         "ServerHost":"p16-va.tiktokcdn.com.1pre1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"US [Server] GIGA-STORIES  prm USDO",
-         "ServerHost":"api-stream.twitter.com.6pre-nybg.ultimatevpn.xyz",
+         "Name":"(GiGa-Stories)  Browse\/Stream SG prm",
+         "ServerHost":"p16-va.tiktokcdn.com.1pre2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] GIGA-STORIES  prm SGDO",
-         "ServerHost":"api-stream.twitter.com.6pre-sgbg.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":false
-      },
-      {
-         "Name":"NL [Server] GIGA-VIDeO  prm Torrent",
-         "ServerHost":"www.iwantv.com.ph.6pre-nlbtn.ultimatevpn.xyz",
+         "Name":"( GAMETIME ) Torrent & Netflix US prm",
+         "ServerHost":"new.mobilelegends.com.1pre1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"US [Server] GIGA-VIDEO  prm USDO",
-         "ServerHost":"www.iwantv.com.ph.6pre-nybg.ultimatevpn.xyz",
+         "Name":"( GAMETIME )  Browse\/Stream SG prm",
+         "ServerHost":"new.mobilelegends.com.1pre2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] GIGA-VIDEO  prm SGDO",
-         "ServerHost":"www.iwantv.com.ph.6pre-sgbg.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":false
-      },
-      {
-         "Name":"NL [Server] UltimateNetwork  prm Torrent",
-         "ServerHost":"clients3.google.com.6pre-nlbtn.ultimatevpn.xyz",
+         "Name":"( GiGA-Video ) Torrent & Netflix US prm",
+         "ServerHost":"img.iwantv.ph.1pre1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"US [Server] UltimateNetwork  prm USDO",
-         "ServerHost":"clients3.google.com.6pre-nybg.ultimatevpn.xyz",
+         "Name":"( GiGA-Video )  Browse\/Stream SG prm",
+         "ServerHost":"img.iwantv.ph.1pre2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] UltimateNetwork  prm SGDO",
-         "ServerHost":"clients3.google.com.6pre-sgbg.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":false
-      },
-      {
-         "Name":"SG [Server] TU/CTC/FLP  vip Torrent",
-         "ServerHost":"www.viber.com.edgekey.net.7vip-sgbtn.ultimatevpn.xyz",
+         "Name":"(GIGA-STUDY) Torrent & Netflix US prm",
+         "ServerHost":"www.google.com.1pre1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"SG [Server] TU/CTC/FLP  vip SGDO1",
-         "ServerHost":"www.viber.com.edgekey.net.7vip-sgbg1.ultimatevpn.xyz",
+         "Name":"(GIGA-STUDY)  Browse\/Stream SG prm",
+         "ServerHost":"www.google.com.1pre2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] TU/CTC/FLP  vip SGDO2",
-         "ServerHost":"www.viber.com.edgekey.net.7vip-sgbg2.ultimatevpn.xyz",
+         "Name":"(TU\/CTC\/FLP) Browse\/Stream SG vip",
+         "ServerHost":"www.viber.com.edgekey.net.2vip1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] GIGA-STORIES  vip Torrent",
-         "ServerHost":"api-stream.twitter.com.7vip-sgbtn.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] GIGA-STORIES  vip SGDO1",
-         "ServerHost":"api-stream.twitter.com.7vip-sgbg1.ultimatevpn.xyz",
+         "Name":"(TU\/CTC\/FLP) GAMING Server SG vip",
+         "ServerHost":"www.viber.com.edgekey.net.2vip2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] GIGA-STORIES  vip SGDO2",
-         "ServerHost":"api-stream.twitter.com.7vip-sgbg2.ultimatevpn.xyz",
+         "Name":"(GiGa-Stories) Browse\/Stream SG vip",
+         "ServerHost":"p16-va.tiktokcdn.com.2vip1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] GIGA-VIDEO  vip Torrent",
-         "ServerHost":"www.iwantv.com.ph.7vip-sgbtn.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] GIGA-VIDEO  vip SGDO1",
-         "ServerHost":"www.iwantv.com.ph.7vip-sgbg1.ultimatevpn.xyz",
+         "Name":"(GiGa-Stories) GAMING Server SG vip",
+         "ServerHost":"p16-va.tiktokcdn.com.2vip2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] GIGA-VIDEO  vip SGDO2",
-         "ServerHost":"www.iwantv.com.ph.7vip-sgbg2.ultimatevpn.xyz",
+         "Name":"( GAMETIME ) Browse\/Stream SG vip",
+         "ServerHost":"new.mobilelegends.com.2vip1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] UltimateNetwork  vip Torrent",
-         "ServerHost":"clients3.google.com.7vip-sgbtn.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] UltimateNetwork  vip SGDO1",
-         "ServerHost":"clients3.google.com.7vip-sgbg1.ultimatevpn.xyz",
+         "Name":"( GAMETIME ) GAMING Server SG vip",
+         "ServerHost":"new.mobilelegends.com.2vip2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"SG [Server] UltimateNetwork  vip SGDO2",
-         "ServerHost":"clients3.google.com.7vip-sgbg2.ultimatevpn.xyz",
+         "Name":"( GiGA-Video ) Browse\/Stream SG vip",
+         "ServerHost":"img.iwantv.ph.2vip1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"US [Server] TU/CTC/FLP  prv Torrent",
-         "ServerHost":"www.viber.com.edgekey.net.8pri-tornet.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] TU/CTC/FLP  prv SGDO",
-         "ServerHost":"www.viber.com.edgekey.net.8pri-sgbg.ultimatevpn.xyz",
+         "Name":"( GiGA-Video ) GAMING Server SG vip",
+         "ServerHost":"img.iwantv.ph.2vip2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"PH [Server] TU/CTC/FLP  prv PHcloud",
-         "ServerHost":"www.viber.com.edgekey.net.8pri-phbg.ultimatevpn.xyz",
+         "Name":"(GIGA-STUDY) Browse\/Stream SG vip",
+         "ServerHost":"www.google.com.2vip1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"US [Server] GIGA-STORIES  prv Torrent",
-         "ServerHost":"api-stream.twitter.com.8pri-tornet.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] GIGA-STORIES  prv SGDO",
-         "ServerHost":"api-stream.twitter.com.8pri-sgbg.ultimatevpn.xyz",
+         "Name":"(GIGA-STUDY) GAMING Server SG vip",
+         "ServerHost":"www.google.com.2vip2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"PH [Server] GIGA-STORIES  prv PHcloud",
-         "ServerHost":"api-stream.twitter.com.8pri-phbg.ultimatevpn.xyz",
+         "Name":"(TU\/CTC\/FLP)  SINGAPORE SG prv",
+         "ServerHost":"www.viber.com.edgekey.net.3pri1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"US [Server] GIGA-VIDEO  prv Torrent",
-         "ServerHost":"www.iwantv.com.ph.8pri-tornet.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] GIGA-VIDEO  prv SGDO",
-         "ServerHost":"www.iwantv.com.ph.8pri-sgbg.ultimatevpn.xyz",
+         "Name":"(TU\/CTC\/FLP)  PHiliPPineS Ph prv",
+         "ServerHost":"www.viber.com.edgekey.net.3pri2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"PH [Server] GIGA-VIDeO  prv PHcloud",
-         "ServerHost":"www.iwantv.com.ph.8pri-phbg.ultimatevpn.xyz",
+         "Name":"(GiGa-Stories)  SINGAPORE SG prv",
+         "ServerHost":"p16-va.tiktokcdn.com.3pri1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"US [Server] UltimateNetwork  prv Torrent",
-         "ServerHost":"clients3.google.com.8pri-tornet.ultimatevpn.xyz",
-         "WarnMsg":false,
-         "NewCert":true,
-         "Torrent":true
-      },
-      {
-         "Name":"SG [Server] UltimateNetwork  prv SGDO",
-         "ServerHost":"clients3.google.com.8pri-sgbg.ultimatevpn.xyz",
+         "Name":"(GiGa-Stories)  PHiliPPineS Ph prv",
+         "ServerHost":"p16-va.tiktokcdn.com.3pri2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"PH [Server] UltimateNetwork  prv PHcloud",
-         "ServerHost":"clients3.google.com.8pri-phbg.ultimatevpn.xyz",
+         "Name":"( GAMETIME )  SINGAPORE SG prv",
+         "ServerHost":"new.mobilelegends.com.3pri1.ultimatevpn.xyz",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"( GAMETIME )  PHiliPPineS Ph prv",
+         "ServerHost":"new.mobilelegends.com.3pri2.ultimatevpn.xyz",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"( GiGA-Video )  SINGAPORE SG prv",
+         "ServerHost":"img.iwantv.ph.3pri1.ultimatevpn.xyz",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"( GiGA-Video )  PHiliPPineS Ph prv",
+         "ServerHost":"img.iwantv.ph.3pri2.ultimatevpn.xyz",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"(GIGA-STUDY)  SINGAPORE SG prv",
+         "ServerHost":"www.google.com.3pri1.ultimatevpn.xyz",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"(GIGA-STUDY)  PHiliPPineS Ph prv",
+         "ServerHost":"www.google.com.3pri2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
@@ -265,8 +223,8 @@
    ],
    "Networks":[
       {
-         "Name":"[Payload] SUN Tu\/Ctc\/Flp (Old) UDP",
-         "Info":"➡USE ➡ \"[Server] TU\/CTC\/FLP\"",
+         "Name":"[Payload] ALL Network Promo (UDP) ",
+         "Info":"(Any Server) W\/ OpenData Access MB",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -276,52 +234,63 @@
          "Payload":""
       },
       {
-         "Name":"[Payload] SUN Tu\/Ctc\/Flp (Old) INJECT",
-         "Info":"➡USE ➡ \"[Server] TU\/CTC\/FLP\"",
+         "Name":"[Payload] SUN  TU and CTC (INJECT)",
+         "Info":"USE Server👉\"(TU\/CTC\/FLP)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7Ksmq269e7ilw5F9+4piRKHcjSbcI5z1c87hnubfqRZtyS9z25xDiXI7O84Av9I\/5Q12aWOHw16oA+jAPMExUfJCD40cUbkvhG\/257FSvXx+cPqpRuQypMtFwRJkdnkUoC0fmOUXSCwF4xUDYru+msEY\/w+1neMVU8AEdTX\/CvRU9Ske3TJ7FJHVNtqnW1730="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7qUnoU6xj0QIAj85mPfySvxzaUwujM9dOH93UELVq5o1oYMxrsMbpYRetFDtQYZhAOO3ILGSz4tMqFmkm6avPuGg7aX0xNAxiFoyduIrNQJMBbsu88Tg4x+uD1P+yYIwM="
       },
       {
-         "Name":"[Payload] SUN TU\/CTC (NEW) INJECT",
-         "Info":"➡USE ➡ \"[Server] TU\/CTC\/FLP\"",
-         "FrontQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
-         "BackQuery":"8spjAAXQ\/GY87GRTOZzC9Q==",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"8spjAAXQ\/GY87GRTOZzC9Q==",
-         "Sni":"8spjAAXQ\/GY87GRTOZzC9Q==",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7hnVb0AZcOfkPX2JigyGIAcBtRvY8hEmgckgOAYmYF9ycTJwegd6qqJ3WrBjL7rIUUHyaxKU5JuiLZ6ug8dyO+fawOMZhFS53h+O3hcTiZvA=="
-      },
-      {
-         "Name":"[Payload] Smart (GIGA-STORIES) INJECT",
-         "Info":"➡USE ➡ \"[Server] GIGA-STORIES\"",
+         "Name":"[Payload] SUN FixedPlan300 (INJECT)",
+         "Info":"USE Server👉\"(TU\/CTC\/FLP)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7HS0OlqSlVWMiVkCzQ5SnSSn1BUVf4QQu7CV1vQAiIAE6ADu39A9BfnFARBwiiJ7oCEw9g+D7bb2HbRDwBWepQ4BlXSug9k9tI640ymowMdw=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4k6n6FndGZZAmCIJetjHWoBMmggQsdvxWi6U3mS4+7IoN6GQFG\/EJ+ZclvB85\/o95ubNyrdJJpTFZ7eiOLSfePoTFFjiaQcRxaCVL3xt2rVA=="
       },
       {
-         "Name":"[Payload] Smart (GIGA-VIDEO) INJECT",
-         "Info":"➡USE ➡ \"[Server] GIGA-VIDEO\"",
+         "Name":"[Payload] Smart Giga-Stories (INJECT)",
+         "Info":"USE Server👉\"(GiGa-Stories)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5FWMV8Q5Nh6D7jRZ2a2GiB6LExWPyJWZ5Z06WdZs6DpdvoMUA3MBpWpFWWWUm6o2kzSCY5vQVyKnEblRwG9RdLV7WCK6r39lU3Ztnc8OZbOw=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4z0k\/Dul2flvwp+vwqZN\/ESU+xb6SkWIuMAakeFrro3wUaKrMssn8PV3oA7neMR5QYxbm93UoJ7qclOhmXi2B+Xzk+4y75kXv4zDmXQfL6UA=="
       },
       {
-         "Name":"[Payload] Smart (GIGA-STUDY) INJECT",
-         "Info":"➡USE ➡ \"[Server] UltimateNetwork\"",
+         "Name":"[Payload] Smart  GAMETIME (INJECT)",
+         "Info":"USE Server👉\"(GAMETIME)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7z0tDfjUzt3neMWNuIFGDbPJ3pzNg7rYGSUEFpOW12VEu9Lm8\/iJc\/H7J6tAjgBaqOYqIQ8Uvce5shRuJ6q0UUoW93iMkMDJnevNN+pj3v3w=="
+      },
+      {
+         "Name":"[Payload] Smart  GiGa-Video (INJECT)",
+         "Info":"USE Server👉\"(GiGA-Video)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5uuab0pEZ96fRxn2BxGcEr6ojxg0laqLmvixFVmDzKjjAoAHysxBuj7EKvlwwFNEFlBJRpOrwCZXVyV\/65Vb2J"
+      },
+      {
+         "Name":"[Payload] Smart GiGa-STUDY (INJECT)",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -331,8 +300,19 @@
          "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6b4891I1dhKeOLVVS7a+RjTVz58wxw\/jF7pK19ZrqAUjnnpMe8+UiMHsDQ8jhJzQy\/0\/mIFHiwSUMQ6iOckRR0iVyBl0LZSLtxXfMTqfeS9A=="
       },
       {
-         "Name":"[Payload] Smart (Tri-Net) Promo INJECT",
-         "Info":"➡USE ➡ \"[Server] TU\/CTC\/FLP\"",
+         "Name":"[Payload] Smart GiGa-WORK (INJECT)",
+         "Info":"USE Server👉\"(TU\/CTC\/FLP)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6b4891I1dhKeOLVVS7a+RjTVz58wxw\/jF7pK19ZrqAUjnnpMe8+UiMHsDQ8jhJzQy\/0\/mIFHiwSUMQ6iOckRR0iVyBl0LZSLtxXfMTqfeS9A=="
+      },
+      {
+         "Name":"[Payload] Smart  Sakto20\/30 (INJECT)",
+         "Info":"USE Server👉\"(TU\/CTC\/FLP)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -342,8 +322,30 @@
          "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6bPC7kdRm7MtOElI8XhJfa8iGb9QxJIFB\/NcUrew2HfpVGAby0IhODlbvVGd0S389\/+GSedBfqdzPtsVdcV4y3\/hisuCA0IJjSV23HUmvoKA=="
       },
       {
-         "Name":"[Payload] GTM  PROMO 1    INJECT",
-         "Info":"➡USE ➡ \"[Server] UltimateNetwork\"",
+         "Name":"[Payload] Smart  AT10\/AT60 (INJECT)",
+         "Info":"USE Server👉\"(TU\/CTC\/FLP)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4yqeML7gfhbevX6zGaMmqEA8flAIBiNX17l6z4I6D7TuX7DBwLug4V42pGqT2FlJUkpSOZ8uRoMrIsxXKsm+JkJ1z6+\/6PN6OHwYCRel5P+A=="
+      },
+      {
+         "Name":"[Payload] TNT  ML10  Promo (INJECT)",
+         "Info":"USE Server👉\"(GAMETIME)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5yHnwaNS+WHouN4GTnLe5E2CyVo3r8thqgIeolZpuh563JIpepWtU5CetrJOTc3OzQ6sp1jM6k4PwzLhLt0kCwjGZ6lPgiUHW\/+jUDLoTk7Q=="
+      },
+      {
+         "Name":"[Payload] TM ML10 and FB10 (INJECT)",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -353,15 +355,59 @@
          "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X72bnTf9f8spNLSBBE4QEUUtxmUW8+xO9uXU93Czsucqh92i2ZYwOY2CdOYFOVy8cnOlxKp362aX0MT4OnmIkKRkevxqBZbT7qSZZ49jANwaw=="
       },
       {
-         "Name":"[Payload] GTM  PROMO 2    INJECT",
-         "Info":"➡USE ➡ \"[Server] UltimateNetwork\"",
+         "Name":"[Payload] GTM ANY-PROMO 1 (INJECT)",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5OJrxjrVSrY0XpIO4kTp8wfZEoy1C+p4aCF5+1pUlhVoxjFcv60YeMfVqbtTSMADdL9BCPKMpfH+7k2Aq8p9MyrHUktr76FLwaZUYKf9zsuA=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5OJrxjrVSrY0XpIO4kTp8w78OZrchzTG5ffAoJ+kEMjjB\/02jueBQK3T0PdtTDjP4ScrMC\/pN4iF6fMoPeZZQoaMXOUVGCNajJH7A\/6d1CpA=="
+      },
+      {
+         "Name":"[Payload] GTM ANY-PROMO 2 (INJECT)",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"fEG4ioSa4puvmgG2R4q1HPG3\/7M5TK8sPpAZrmgQZ5Mo\/4I8miDWzAijl3FMNSjL8Fdt9g+ngvH2Lx7zg1R82Fj4Ob3BY6T1pb7U01jFPbuIDt2PNww\/nK8Lwkj5Y30LdsbxJhd5MGUtJ4koWb5uk4KoemWZCiDT0AcGEhfBjZ3s4EVl2oAwuONArc\/FgWpVaD+Dmoa\/Ae2rwS+SPIRP3w=="
+      },
+      {
+         "Name":"[Payload] GTM ANY-PROMO 3 (INJECT)",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X76LhrKANPAF\/5ubeqodcGP79iq92ZKYcSqonLXiTS2+P6Lp5vak9zmb+oAYYE8CaLgClGoXdQ9kT8vvCgLuuvC60gLdqobYPRYRPhDwl1JA5bbKhFRyQBdq3E4sAAH3WwalHkt379uVkuZcY3pKndd\/HT1rtVCxrcfU\/X6Htz7yQ=="
+      },
+      {
+         "Name":"[Payload] GTM ANY-PROMO 4 (INJECT)",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0ubEmgC4wuEv+JeoobH7i2VEsBPU1tnz+3OCzdrf4mbEJO6RRAjTyJVXOfmt03\/5wgBSHvEGkaQwBYalfGWWsFPeyCta\/rrj8DU9DmMMp3DBjuGHaHV3Lv\/OOGnva+OMpuz\/1cfOBIix+s1Qr3W5cIW4="
+      },
+      {
+         "Name":"[Payload] GTM ANY-PROMO   ( SSL )",
+         "Info":"USE Server👉\"(GIGA-STUDY)\"",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"CnjGogojPGL81hPAG62IyRLPNwgFadzuDYnKCuoFJH0=",
+         "Payload":""
       }
    ]
 }
