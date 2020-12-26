@@ -1,5 +1,5 @@
 {
-   "ConfigVersion":3.023,
+   "ConfigVersion":3.024,
    "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n👇UltimateVPN ADMIN👇\n💎01👉 VPN Admin Redentor\n💎02👉 VPN Admin Lizza\n💎03👉 VPN Admin ShyRa\n---------------------------------------------\nTnx:Admin's & Seller's",
    "Notice":"😇 Welcome to UltimateVPN 😇 Thanks to sir Jx 😇",
    "WarningMsg":"This Server is for ONLINE GAMING Only.",
@@ -12,84 +12,84 @@
    "Servers":[
       {
          "Name":"prm US [Server] Torrent and Netflix",
-         "ServerHost":"prm-us.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prm-us.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
          "Name":"prm CA [Server] D.O      (Canada)",
-         "ServerHost":"prm-ca.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prm-ca.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"prm IN [Server] D.O    (Bongalore)",
-         "ServerHost":"prm-in.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prm-in.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"prm DE [Server] D.O     (Germany)",
-         "ServerHost":"prm-de.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prm-de.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
          "Name":"prm SG [Server] Vultr  (Singapore)",
-         "ServerHost":"prm-sg.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prm-sg.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"vip SG [Server] D.O   (Singapore) 1",
-         "ServerHost":"vip-sg1.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.vip-sg1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"vip SG [Server] D.O   (Singapore) 2",
-         "ServerHost":"vip-sg2.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.vip-sg2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"vip SG [Server] Vultr (Singapore) 3",
-         "ServerHost":"vip-sg3.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.vip-sg3.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"vip SG [Server] Vultr (Singapore) 4",
-         "ServerHost":"vip-sg4.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.vip-sg4.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"prv SG [Server] D.O   (Singapore) 1",
-         "ServerHost":"prv-sg1.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prv-sg1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"prv SG [Server] Vultr (Singapore) 2",
-         "ServerHost":"prv-sg2.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prv-sg2.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
          "Name":"prv PH [Server] Cloud (Philippines)",
-         "ServerHost":"prv-ph1.ultimatevpn.xyz",
+         "ServerHost":"p16-va.tiktokcdn.com.prv-ph1.ultimatevpn.xyz",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
