@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":3.026,
-   "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n👇UltimateVPN ADMIN👇\n💎01👉 VPN Admin Lizza\n💎02👉 VPN Admin ShyRa\n---------------------------------------------\n😘Big Thanks:Admin's & Seller's😘",
+   "ConfigVersion":3.036,
+   "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n😘 😘 Best Regards 😘 😘\n💎01👉 VPN Admin Lizza\n💎02👉 VPN Admin ShyRa\n💎03👉 VPN Admin Calvz\n---------------------------------------------\n😘Tnx din sa mga Sellers😘",
    "Notice":"😇 Welcome to UltimateVPN 😇 Thanks to sir Jx 😇",
    "WarningMsg":"This Server is for ONLINE GAMING Only.",
    "SquidPort":"3128",
@@ -172,30 +172,8 @@
          "Payload":""
       },
       {
-         "Name":"[Payload] SUN FixedPlan300 (INJECT)",
-         "Info":"Convert FixedPlan300 to All Site Access",
-         "FrontQuery":"",
-         "BackQuery":"",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"",
-         "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4k6n6FndGZZAmCIJetjHWoBMmggQsdvxWi6U3mS4+7IoN6GQFG\/EJ+ZclvB85\/o95ubNyrdJJpTFZ7eiOLSfePoTFFjiaQcRxaCVL3xt2rVA=="
-      },
-      {
-         "Name":"[Payload] SUN FixedPlan300   ( SSL )",
-         "Info":"Convert FixedPlan300 to All Site Access",
-         "FrontQuery":"",
-         "BackQuery":"",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"",
-         "Sni":"Sl3U0WBh\/fU7P78DlBvnP2q70r\/4pHFOUuix7FCJ4N4=",
-         "Payload":""
-      },
-      {
          "Name":"[Payload] Smart Giga-Stories (INJECT)",
-         "Info":"Convert STORIES Promo to All Site Access",
+         "Info":"Convert G-Stories (2gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -206,7 +184,7 @@
       },
       {
          "Name":"[Payload] Smart Giga-Stories   ( SSL )",
-         "Info":"Convert STORIES Promo to All Site Access",
+         "Info":"Convert G-Stories (2gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -239,7 +217,7 @@
       },
       {
          "Name":"[Payload] Smart  GiGa-Video (INJECT)",
-         "Info":"Convert Promo to All Site Access",
+         "Info":"Convert G-Video (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -250,7 +228,7 @@
       },
       {
          "Name":"[Payload] Smart  GiGa-Video   ( SSL )",
-         "Info":"Convert Promo to All Site Access",
+         "Info":"Convert G-Video (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
@@ -260,139 +238,117 @@
          "Payload":""
       },
       {
-         "Name":"[Payload] Smart GiGa-STUDY (INJECT)",
-         "Info":"Convert Promo to All Site Access",
+         "Name":"[Payload] TNT GigaLife  ML10 1 (INJECT)",
+         "Info":"Convert ML10 (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6b4891I1dhKeOLVVS7a+RjTVz58wxw\/jF7pK19ZrqAUjnnpMe8+UiMHsDQ8jhJzQy\/0\/mIFHiwSUMQ6iOckRR0iVyBl0LZSLtxXfMTqfeS9A=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5sbmkcBnEESRan0TAZbD+2C18HOs5XemdJbpBv89wtmkflXbuUCULcdFbuF1AgcQAeZ4onMLO+kAi6pCwIf4UbKY5wUIqWYRdmSNF6WqSwQQ=="
       },
       {
-         "Name":"[Payload] Smart GiGa-STUDY   ( SSL )",
-         "Info":"Convert Promo to All Site Access",
+         "Name":"[Payload] TNT GigaLife  ML10 1 ( SSL )",
+         "Info":"Convert ML10 (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"\/TvUgqhQGZXURY1L835znQ==",
+         "Sni":"Tr+RS28w\/feuetGuGQdir5wlUA6tm2\/xYCB5hvwNDO4=",
          "Payload":""
       },
       {
-         "Name":"[Payload] Smart GiGa-WORK (INJECT)",
-         "Info":"Convert Promo to All Site Access",
+         "Name":"[Payload] TNT GigaLife WildRift a1 (INJECT)",
+         "Info":"Convert WildRift (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6b4891I1dhKeOLVVS7a+RjTVz58wxw\/jF7pK19ZrqAUjnnpMe8+UiMHsDQ8jhJzQy\/0\/mIFHiwSUMQ6iOckRR0iVyBl0LZSLtxXfMTqfeS9A=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7N0sljdkrm\/GLwUah2hCuT0KHMwtQe0ooKONKD7ut1CNEmu8RfX+lrJ65ZZ9GDg4vB2ktHvunC3m4DopPglCSU40toq27iqA3AzqqHus+5ZA=="
       },
       {
-         "Name":"[Payload] Smart GiGa-WORK   ( SSL )",
-         "Info":"Convert Promo to All Site Access",
+         "Name":"[Payload] TNT GigaLife WildRift a2 ( SSL )",
+         "Info":"Convert WildRift (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"\/TvUgqhQGZXURY1L835znQ==",
+         "Sni":"a\/fO3zwzfD61MfA+RhdIMizH4uOcjll3y9n\/aHF\/F3k=",
          "Payload":""
       },
       {
-         "Name":"[Payload] Smart  Sakto20\/30 (INJECT)",
-         "Info":"Convert Sakto Promo to All Site Access",
+         "Name":"[Payload] TNT GigaLife WildRift b1 (INJECT)",
+         "Info":"Convert WildRift (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X6bPC7kdRm7MtOElI8XhJfa8iGb9QxJIFB\/NcUrew2HfpVGAby0IhODlbvVGd0S389\/+GSedBfqdzPtsVdcV4y3\/hisuCA0IJjSV23HUmvoKA=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7CZn2H+mLFh\/thjix3xG3Xw8p0RSkbgKVPClEW4hWWXOuMXGY9fd7SAekLFA1FmLt4iwX+TYnAwjLVnMiLeS6YSLw5dB8be9GTWARFtvMcPQ=="
       },
       {
-         "Name":"[Payload] Smart  Sakto20\/30   ( SSL )",
-         "Info":"Convert Sakto Promo to All Site Access",
+         "Name":"[Payload] TNT GigaLife WildRift b2 ( SSL )",
+         "Info":"Convert WildRift (1gb/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"UOcUZc2GD+upEhHO3\/JSFQ6Tgiv+M+TPOXtEOzLPih4=",
+         "Sni":"enVgUd0L7\/c8BH02h1syRPPpi1AKyL9cYOlf04hB36Q=",
          "Payload":""
       },
       {
-         "Name":"[Payload] Smart  AT10\/AT60 (INJECT)",
-         "Info":"Convert AT Promo to All Site Access",
+         "Name":"[Payload] TM ML10 PROMO 1 (INJECT)",
+         "Info":"Convert (1gb Consumable) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4yqeML7gfhbevX6zGaMmqEA8flAIBiNX17l6z4I6D7TuX7DBwLug4V42pGqT2FlJUkpSOZ8uRoMrIsxXKsm+JkJ1z6+\/6PN6OHwYCRel5P+A=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7beuvrfxvX4v\/XhLVLcRHY3U8AubBcWLLjrdimqosT+prHuVLYW+3qrg9oykKFP3ETrf8l15QiVO4U\/am0A9tW5sN7UOFvYlgC5VlOfMkxGw=="
       },
       {
-         "Name":"[Payload] Smart  AT10\/AT60   ( SSL )",
-         "Info":"Convert ML Promo (200mb) to All Site Access",
+         "Name":"[Payload] TM ML10 PROMO 2 ( SSL )",
+         "Info":"Convert (1gb Consumable) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"kJ2aXDHPt3QrJP8JRMRHSdHG\/I+77F1LXkrDQw7pjAE=",
+         "Sni":"g4\/WtTdpoUaYe6LoHmUvfpaaDNwVIMlINZ2JSuUH+8Y=",
          "Payload":""
       },
       {
-         "Name":"[Payload] TNT  ML10  Promo (INJECT)",
-         "Info":"Convert ML10 (200mb daily) to All Site Access",
+         "Name":"[Payload] TM FS-TikWs\/YtML\/FnA 1 (INJECT)",
+         "Info":"Convert Promo's to All Site/App Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5LAsUHRPR\/qTk0IJlrsxycpoNc6oWS1DTkOHZpdUMezqlQp8\/ZnnQZo99OtIcMPhv83IXGFAPLW2qUK0Bavpl4Mk06+n+Un91CvzV1WW4OlA=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X50k+o4bIzRk4YloN73xrNZ44\/xPBExZAPNu58wpOLZis9SauuKq1liYa1e68HlZPNHM1SPewFZlfbPqcPRR2dmltr2VYyb51vXlzjdPFfrjA=="
       },
       {
-         "Name":"[Payload] TNT  ML10  Promo   ( SSL )",
-         "Info":"Convert ML10 (200mb daily) to All Site Access",
+         "Name":"[Payload] TM FS-TikWs\/YtML\/FnA 1   ( SSL )",
+         "Info":"Convert Promo's to All Site/App Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"vITBoIYvlzaKHxf6LQXl80nKkbNKOXkNbSIQObcw7FM=",
+         "Sni":"JCoyMcV9oTHjbrWbHEWEaA==",
          "Payload":""
       },
       {
-         "Name":"[Payload] TM ML10 and FB10 (INJECT)",
-         "Info":"All Site Access (1gb consumable in 3days)",
-         "FrontQuery":"",
-         "BackQuery":"",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"",
-         "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X72bnTf9f8spNLSBBE4QEUUtxmUW8+xO9uXU93Czsucqh92i2ZYwOY2CdOYFOVy8cnOlxKp362aX0MT4OnmIkKRkevxqBZbT7qSZZ49jANwaw=="
-      },
-      {
-         "Name":"[Payload] TM ML10 and FB10   ( SSL )",
-         "Info":"All Site Access (1gb consumable in 3days)",
-         "FrontQuery":"",
-         "BackQuery":"",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"",
-         "Sni":"DZUmekpWXy0KKvwJm1dC\/T8EgHVcxm5lV7TVQKYbuD0=",
-         "Payload":""
-      },
-      {
-         "Name":"[Payload] GTM ANY-PROMO 1 (INJECT)",
+         "Name":"[Payload] GTM PROMO 1 (INJECT)",
          "Info":"Convert Youtube Promo to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
@@ -400,10 +356,10 @@
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5OJrxjrVSrY0XpIO4kTp8w78OZrchzTG5ffAoJ+kEMjjB\/02jueBQK3T0PdtTDjP4ScrMC\/pN4iF6fMoPeZZQoaMXOUVGCNajJH7A\/6d1CpA=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5OJrxjrVSrY0XpIO4kTp8wfZEoy1C+p4aCF5+1pUlhVoxjFcv60YeMfVqbtTSMADdL9BCPKMpfH+7k2Aq8p9MyrHUktr76FLwaZUYKf9zsuA=="
       },
       {
-         "Name":"[Payload] GTM ANY-PROMO 2 (INJECT)",
+         "Name":"[Payload] GTM PROMO 2 (INJECT)",
          "Info":"Convert Youtube Promo to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
@@ -411,39 +367,17 @@
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"fEG4ioSa4puvmgG2R4q1HPG3\/7M5TK8sPpAZrmgQZ5Mo\/4I8miDWzAijl3FMNSjL8Fdt9g+ngvH2Lx7zg1R82Fj4Ob3BY6T1pb7U01jFPbuIDt2PNww\/nK8Lwkj5Y30LdsbxJhd5MGUtJ4koWb5uk4KoemWZCiDT0AcGEhfBjZ3s4EVl2oAwuONArc\/FgWpVaD+Dmoa\/Ae2rwS+SPIRP3w=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7Ksmq269e7ilw5F9+4piRK1AxPAMAFeM5w6L6wCWcMQx7i0896qYxjSWxtaHavfe4YZ4k7TP4o5dUtYg47N4eUxJlHoj4lTD7gJUB+XD\/RmsirniErE9aVAaH9NImqh6Pm2TzBJ3wwZOts3VFf9H+XNsqFTRMNsQp2P70iik+Utg=="
       },
       {
-         "Name":"[Payload] GTM ANY-PROMO 3 (INJECT)",
+         "Name":"[Payload] GTM PROMO 3 ( SSL )",
          "Info":"Convert Youtube Promo to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X76LhrKANPAF\/5ubeqodcGP79iq92ZKYcSqonLXiTS2+P6Lp5vak9zmb+oAYYE8CaLgClGoXdQ9kT8vvCgLuuvC60gLdqobYPRYRPhDwl1JA5bbKhFRyQBdq3E4sAAH3WwalHkt379uVkuZcY3pKndd\/HT1rtVCxrcfU\/X6Htz7yQ=="
-      },
-      {
-         "Name":"[Payload] GTM ANY-PROMO 4 (INJECT)",
-         "Info":"Convert Youtube Promo to All Site Access",
-         "FrontQuery":"",
-         "BackQuery":"",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"",
-         "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0ubEmgC4wuEv+JeoobH7i2VEsBPU1tnz+3OCzdrf4mbEJO6RRAjTyJVXOfmt03\/5wgBSHvEGkaQwBYalfGWWsFPeyCta\/rrj8DU9DmMMp3DBjuGHaHV3Lv\/OOGnva+OMpuz\/1cfOBIix+s1Qr3W5cIW4="
-      },
-      {
-         "Name":"[Payload] GTM ANY-PROMO 5   ( SSL )",
-         "Info":"Convert Youtube Promo to All Site Access",
-         "FrontQuery":"",
-         "BackQuery":"",
-         "UseCustom":false,
-         "CustomProxy":"",
-         "Direct":"",
-         "Sni":"WgYyCR+wfP5QGAYS3K42fs3yLuY\/jXIm3ZY4ZssGP8A=",
+         "Sni":"CnjGogojPGL81hPAG62IyRLPNwgFadzuDYnKCuoFJH0=",
          "Payload":""
       }
    ]
