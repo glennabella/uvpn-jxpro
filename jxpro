@@ -1,6 +1,6 @@
 {
-   "ConfigVersion":4.11,
-   "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773051439🔑===========================\n😘 😘 Best Regards 😘 😘\n💎CoOwner\/Admin\/SubAdmin\/Reseller\n---------------------------------------------\n😘Tnx din sa mga CLIENTS😘",
+   "ConfigVersion":4.19,
+   "ConfigUpdateMsg":"😇Thank You For Choosing Us !💖===========================\n💥©Owner Glennford C. Abella💥\n⏩Hiring CoOwner\/Admin Unli VC\n👇Click Messenger Link Below👇https:\/\/m.me\/UltimateVPN.Owner\n👇👇👇You May Call\/Text 👇👇👇\n🔑My GCash#👉09773270471🔑===========================\n😘 😘 Best Regards 😘 😘\n💎CoOwner\/Admin\/SubAdmin\/Reseller\n---------------------------------------------\n😘Tnx din sa mga CLIENTS😘",
    "Notice":"😇 Welcome to UltimateVPN 😇 Thanks to sir Jx Bajam 😇",
    "WarningMsg":"This Server is for ONLINE GAMING Only.",
    "SquidPort":"3128",
@@ -11,175 +11,695 @@
    "OpenVpnCustomPort":"110",
    "Servers":[
       {
-         "Name":"prm US [Server] Torrent Netflix",
-         "ServerHost":"p16-va.tiktokcdn.com.net-flix.ph-ultimatevpn.xyz",
+         "Name":"prm US [Server] GStories Torrent Netflix",
+         "ServerHost":"p16-va.tiktokcdn.com.prmtornet.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"prm US [Server] NEW-YORK  1",
-         "ServerHost":"p16-va.tiktokcdn.com.prmny1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 1",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg01.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm US [Server] NEW-YORK  2",
-         "ServerHost":"p16-va.tiktokcdn.com.prmny2.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 02",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg02.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm US [Server] NEW-YORK  3",
-         "ServerHost":"p16-va.tiktokcdn.com.prmny3.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 03",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg03.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm IN [Server] BONGALORE  1",
-         "ServerHost":"p16-va.tiktokcdn.com.prmin1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 04",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg04.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm IN [Server] BONGALORE  2",
-         "ServerHost":"p16-va.tiktokcdn.com.prmin2.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 05",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg05.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm IN [Server] BONGALORE  3",
-         "ServerHost":"p16-va.tiktokcdn.com.prmin3.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 06",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg06.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm SG [Server] SINGAPORE  1",
-         "ServerHost":"p16-va.tiktokcdn.com.prmsg1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 07",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg07.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm SG [Server] SINGAPORE  2",
-         "ServerHost":"p16-va.tiktokcdn.com.prmsg2.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 08",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg08.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prm SG [Server] SINGAPORE  3",
-         "ServerHost":"p16-va.tiktokcdn.com.prmsg3.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 09",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg09.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip US [Server] Torrent Netflix",
-         "ServerHost":"p16-va.tiktokcdn.com.net-flix.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GStories Sgdo 10",
+         "ServerHost":"p16-va.tiktokcdn.com.prmsg10.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm US [Server] GGames Torrent Netflix",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmtornet.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"vip US [Server] NEW-YORK  1",
-         "ServerHost":"p16-va.tiktokcdn.com.vipny1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 01",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg01.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip US [Server] NEW-YORK  2",
-         "ServerHost":"p16-va.tiktokcdn.com.vipny2.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 02",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg02.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip IN [Server] BONGALORE  1",
-         "ServerHost":"p16-va.tiktokcdn.com.vipin1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 03",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg03.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip IN [Server] BONGALORE  2",
-         "ServerHost":"p16-va.tiktokcdn.com.vipin2.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 04",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg04.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip JP [Server] JAPAN",
-         "ServerHost":"p16-va.tiktokcdn.com.vipjp1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 05",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg05.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip SG [Server] SINGAPORE  1",
-         "ServerHost":"p16-va.tiktokcdn.com.vipsg1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 06",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg06.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"vip SG [Server] SINGAPORE  2",
-         "ServerHost":"p16-va.tiktokcdn.com.vipsg2.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 07",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg07.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prv US [Server] Torrent Netflix",
-         "ServerHost":"p16-va.tiktokcdn.com.net-flix.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GGames Sgdo 08",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg08.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GGames Sgdo 09",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg09.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GGames Sgdo 10",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmsg10.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm US [Server] GVideo Torrent Netflix",
+         "ServerHost":"staging.iwant.ph.prmtornet.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":true
       },
       {
-         "Name":"prv US [Server] NEW-YORK",
-         "ServerHost":"p16-va.tiktokcdn.com.prvny1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GVideo Sgdo 01",
+         "ServerHost":"staging.iwant.ph.prmsg01.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prv IN [Server] BONGALORE",
-         "ServerHost":"p16-va.tiktokcdn.com.prvin1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GVideo Sgdo 02",
+         "ServerHost":"staging.iwant.ph.prmsg02.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prv SG [Server] SINGAPORE",
-         "ServerHost":"p16-va.tiktokcdn.com.prvsg1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GVideo Sgdo 03",
+         "ServerHost":"staging.iwant.ph.prmsg03.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prv JP [Server] JAPAN",
-         "ServerHost":"p16-va.tiktokcdn.com.vipjp1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GVideo Sgdo 04",
+         "ServerHost":"staging.iwant.ph.prmsg04.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       },
       {
-         "Name":"prv PH [Server] PHiLiPPiNES",
-         "ServerHost":"p16-va.tiktokcdn.com.prvph1.ph-ultimatevpn.xyz",
+         "Name":"prm SG [Server] GVideo Sgdo 05",
+         "ServerHost":"staging.iwant.ph.prmsg05.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GVideo Sgdo 06",
+         "ServerHost":"staging.iwant.ph.prmsg06.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GVideo Sgdo 07",
+         "ServerHost":"staging.iwant.ph.prmsg07.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GVideo Sgdo 08",
+         "ServerHost":"staging.iwant.ph.prmsg08.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GVideo Sgdo 09",
+         "ServerHost":"staging.iwant.ph.prmsg09.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] GVideo Sgdo 10",
+         "ServerHost":"staging.iwant.ph.prmsg10.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm US [Server] FLP300 Torrent Netflix",
+         "ServerHost":"e9413.g.akamaiedge.net.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 01",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 02",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 03",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 04",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg04.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 05",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg05.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 06",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg06.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 07",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg07.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 08",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg08.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 09",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg09.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prm SG [Server] FLP300 Sgdo 10",
+         "ServerHost":"e9413.g.akamaiedge.net.prmsg10.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip US [Server] GStories Torrent Netflix",
+         "ServerHost":"p16-va.tiktokcdn.com.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"vip SG [Server] GStories Sgdo 01",
+         "ServerHost":"p16-va.tiktokcdn.com.vipsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GStories Sgdo 02",
+         "ServerHost":"p16-va.tiktokcdn.com.vipsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GStories Sgdo 03",
+         "ServerHost":"p16-va.tiktokcdn.com.vipsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GStories Sgdo 04",
+         "ServerHost":"p16-va.tiktokcdn.com.vipsg04.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GStories Sgdo 05",
+         "ServerHost":"p16-va.tiktokcdn.com.vipsg05.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GStories Sgdo 06",
+         "ServerHost":"p16-va.tiktokcdn.com.vipsg06.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip US [Server] GGames Torrent Netflix",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"vip SG [Server] GGames Sgdo 01",
+         "ServerHost":"wscdn.ml.youngjoygame.com.vipsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GGames Sgdo 02",
+         "ServerHost":"wscdn.ml.youngjoygame.com.vipsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GGames Sgdo 03",
+         "ServerHost":"wscdn.ml.youngjoygame.com.vipsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GGames Sgdo 04",
+         "ServerHost":"wscdn.ml.youngjoygame.com.vipsg04.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GGames Sgdo 05",
+         "ServerHost":"wscdn.ml.youngjoygame.com.vipsg05.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GGames Sgdo 06",
+         "ServerHost":"wscdn.ml.youngjoygame.com.vipsg06.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip US [Server] GVideo Torrent Netflix",
+         "ServerHost":"staging.iwant.ph.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"vip SG [Server] GVideo Sgdo 01",
+         "ServerHost":"staging.iwant.ph.vipsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GVideo Sgdo 02",
+         "ServerHost":"staging.iwant.ph.vipsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GVideo Sgdo 03",
+         "ServerHost":"staging.iwant.ph.vipsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GVideo Sgdo 04",
+         "ServerHost":"staging.iwant.ph.vipsg04.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GVideo Sgdo 05",
+         "ServerHost":"staging.iwant.ph.vipsg05.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] GVideo Sgdo 06",
+         "ServerHost":"staging.iwant.ph.vipsg06.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip US [Server] FLP300 Torrent Netflix",
+         "ServerHost":"e9413.g.akamaiedge.net.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"vip SG [Server] FLP300 Sgdo 01",
+         "ServerHost":"e9413.g.akamaiedge.net.vipsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] FLP300 Sgdo 02",
+         "ServerHost":"e9413.g.akamaiedge.net.vipsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] FLP300 Sgdo 03",
+         "ServerHost":"e9413.g.akamaiedge.net.vipsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] FLP300 Sgdo 04",
+         "ServerHost":"e9413.g.akamaiedge.net.vipsg04.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] FLP300 Sgdo 05",
+         "ServerHost":"e9413.g.akamaiedge.net.vipsg05.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"vip SG [Server] FLP300 Sgdo 06",
+         "ServerHost":"e9413.g.akamaiedge.net.vipsg06.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv US [Server] GStories Torrent Netflix",
+         "ServerHost":"p16-va.tiktokcdn.com.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"prv SG [Server] GStories Sgdo 01",
+         "ServerHost":"p16-va.tiktokcdn.com.prvsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] GStories Sgdo 02",
+         "ServerHost":"p16-va.tiktokcdn.com.prvsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] GStories Sgdo 03",
+         "ServerHost":"p16-va.tiktokcdn.com.prvsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv PH [Server] GStories PHiLiPPiNES",
+         "ServerHost":"p16-va.tiktokcdn.com.prvph01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv US [Server] GGames Torrent Netflix",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"prv SG [Server] GGames Sgdo 01",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prvsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] GGames Sgdo 02",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prvsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] GGames Sgdo 03",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prvsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv PH [Server] GGames PHiLiPPiNES",
+         "ServerHost":"wscdn.ml.youngjoygame.com.prvph01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv US [Server] GVideo Torrent Netflix",
+         "ServerHost":"staging.iwant.ph.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"prv SG [Server] GVideo Sgdo 01",
+         "ServerHost":"staging.iwant.ph.prvsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] GVideo Sgdo 02",
+         "ServerHost":"staging.iwant.ph.prvsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] GVideo Sgdo 03",
+         "ServerHost":"staging.iwant.ph.prvsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv PH [Server] GVideo PHiLiPPiNES",
+         "ServerHost":"staging.iwant.ph.prvph01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv US [Server] FLP300 Torrent Netflix",
+         "ServerHost":"e9413.g.akamaiedge.net.prmtornet.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":true
+      },
+      {
+         "Name":"prv SG [Server] FLP300 Sgdo 01",
+         "ServerHost":"e9413.g.akamaiedge.net.prvsg01.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] FLP300 Sgdo 02",
+         "ServerHost":"e9413.g.akamaiedge.net.prvsg02.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv SG [Server] FLP300 Sgdo 03",
+         "ServerHost":"e9413.g.akamaiedge.net.prvsg03.my-ultimatevpn.com",
+         "WarnMsg":false,
+         "NewCert":true,
+         "Torrent":false
+      },
+      {
+         "Name":"prv PH [Server] FLP300 PHiLiPPiNES",
+         "ServerHost":"e9413.g.akamaiedge.net.prvph01.my-ultimatevpn.com",
          "WarnMsg":false,
          "NewCert":true,
          "Torrent":false
       }
    ],
    "Networks":[
+      {
+         "Name":"[Payload] SUN FixedPlan300 1 (INJECT)",
+         "Info":"Convert Flp300 (2-5gb\/day) to All Site Access",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5pn+YyZmd9K6k4MN5CRcaADtVFP3juUj\/MDsyZb+owYu6hZosCNdnkYY8AbzOBqPHCBwKkMCVW879YyDISSBTjxGEOrnSkX6crfSbANjTVPQ=="
+      },
+      {
+         "Name":"[Payload] SUN FixedPlan300 1 ( SSL )",
+         "Info":"Convert Flp300 (2-5gb\/day) to All Site Access",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"qg6k8f5nbVCmTEO65hHJRvRfYLrvzlMYptTLYvNrMCU=",
+         "Payload":""
+      },
+      {
+         "Name":"[Payload] SUN FixedPlan300 2 (INJECT)",
+         "Info":"Convert Flp300 (2-5gb\/day) to All Site Access",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4k6n6FndGZZAmCIJetjHWoBMmggQsdvxWi6U3mS4+7IoN6GQFG\/EJ+ZclvB85\/o95ubNyrdJJpTFZ7eiOLSfePoTFFjiaQcRxaCVL3xt2rVA=="
+      },
+      {
+         "Name":"[Payload] SUN FixedPlan300 2 ( SSL )",
+         "Info":"Convert Flp300 (2-5gb\/day) to All Site Access",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"Sl3U0WBh\/fU7P78DlBvnP2q70r\/4pHFOUuix7FCJ4N4=",
+         "Payload":""
+      },
       {
          "Name":"[Payload] Smart GIGA-STORIES 1 (INJECT)",
          "Info":"Convert G-Stories (2gb\/day) to All Site Access",
@@ -225,7 +745,7 @@
          "Payload":""
       },
       {
-         "Name":"[Payload] Smart GigaGamesTime  (INJECT)",
+         "Name":"[Payload] Smart GIGA-GAMES  (INJECT)",
          "Info":"Convert G-Games (2gb\/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
@@ -233,17 +753,39 @@
          "CustomProxy":"",
          "Direct":"",
          "Sni":"",
-         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X7beuvrfxvX4v\/XhLVLcRHY3U8AubBcWLLjrdimqosT+prHuVLYW+3qrg9oykKFP3ETrf8l15QiVO4U\/am0A9tW5sN7UOFvYlgC5VlOfMkxGw=="
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X4jNkxfpAOJDLlOpg9iGnQVzenIqAkN5wnDYbN\/xiSM6Q0ivu8M2Sf+MjLhaH\/IrROi4YPoR4g15eqEntFMhG\/rWxPmiSSLdWrWOJnCoD\/r6A=="
       },
       {
-         "Name":"[Payload] Smart GigaGamesTime  ( SSL )",
+         "Name":"[Payload] Smart GIGA-GAMES  ( SSL )",
          "Info":"Convert G-Games (2gb\/day) to All Site Access",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
          "CustomProxy":"",
          "Direct":"",
-         "Sni":"g4\/WtTdpoUaYe6LoHmUvfpaaDNwVIMlINZ2JSuUH+8Y=",
+         "Sni":"UrK\/xnkk9L+kzBfUyQaLQX+rhxXa1oXHaaPdAi\/NjIg=",
+         "Payload":""
+      },
+      {
+         "Name":"[Payload] Smart GIGA-VIDEO  (INJECT)",
+         "Info":"Convert G-Video (2gb\/day) to All Site Access",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"",
+         "Payload":"o8b5gQgUPm4YmQMhzvG0uYgVUKV3faDjJ\/z5jH0y4X5e5Xx8C8CDZFg4grX2x\/Dtre1cG6GTUj02zg2LvLwcySLUHzT+LiMCjZMTK6SCJNwyGFolU1Uy+s2RO2YY9005"
+      },
+      {
+         "Name":"[Payload] Smart GIGA-VIDEO  ( SSL )",
+         "Info":"Convert G-Video (2gb\/day) to All Site Access",
+         "FrontQuery":"",
+         "BackQuery":"",
+         "UseCustom":false,
+         "CustomProxy":"",
+         "Direct":"",
+         "Sni":"0j7voYnbv8sabxEhzLs6Kg==",
          "Payload":""
       },
       {
@@ -357,7 +899,7 @@
          "Payload":""
       },
       {
-         "Name":"[ DIRECT ] ALL Network Promo (TCP) ",
+         "Name":"[ DIRECT ] AnyNetwork w\/DataMB (TCP) ",
          "Info":"(Any Promo) with OpenData Access MB",
          "FrontQuery":"",
          "BackQuery":"",
@@ -368,7 +910,7 @@
          "Payload":""
       },
       {
-         "Name":"[ DIRECT ] ALL Network Promo (UDP) ",
+         "Name":"[ DIRECT ] AnyNetwork w\/DataMB (UDP) ",
          "Info":"(Any Promo) with OpenData Access MB",
          "FrontQuery":"",
          "BackQuery":"",
