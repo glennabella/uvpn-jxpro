@@ -911,7 +911,7 @@
       },
       {
          "Name":"[ DIRECT ] AnyNetwork w\/DataMB (UDP) ",
-         "Info":"(Any Promo) with Open Data Access MB",
+         "Info":"(Any Promo) with OpenData Access MB",
          "FrontQuery":"",
          "BackQuery":"",
          "UseCustom":false,
